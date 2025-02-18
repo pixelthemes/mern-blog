@@ -1,15 +1,15 @@
 PORT=2000
-DATABASE="mongodb+srv://MdRohan:console(~~!!)@cluster0.r4f3e.mongodb.net/Final-Exa?retryWrites=true&w=majority&appName=Cluster0"
-JWT_KEY='ABC12341241234'
+DATABASE="
+JWT_KEY=''
 JWT_EXPIRE_TIME=2592000
 
 
-EMAIL_HOST="mail.themesoft69.com"
+EMAIL_HOST=""
 EMAIL_PORT=465
 EMAIL_SECURITY=true
-EMAIL_USER="mern_ostad@themesoft69.com"
-EMAIL_PASS="h4e24DFTj6v)"
-EMAIL_UN_AUTH=false
+EMAIL_USER=""
+EMAIL_PASS=""
+EMAIL_UN_AUTH=
 
 
 WEB_CACHE=false
