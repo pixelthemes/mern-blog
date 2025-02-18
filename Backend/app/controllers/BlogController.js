@@ -1,4 +1,4 @@
-import {CreateBlogService,getAllBlogService,getBlogByIdService,UpdateBlogService,DeleteBlogService} from "../Service/BlogService.js";
+import {CreateBlogService,getAllBlogService,getBlogByIdService,UpdateBlogService,DeleteBlogService} from "../service/BlogService.js";
 
 
 export const CreateBlog=async (req,res)=>{
